@@ -72,7 +72,7 @@
             
             // Size of the active zone of each corner
     
-            cornerSize: 100,
+            cornerSize: 200,
     
             // Enables gradients
     
